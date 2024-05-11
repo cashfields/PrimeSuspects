@@ -1,6 +1,5 @@
-name: Scott CA$H Fields
-#markdown: kramdown  
-#theme: jekyll-theme-modernist
-remote_theme: jekyll-theme-merlot
-root: /
-relative_permalinks: false
+title: Merlot theme
+description: Merlot is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-merlot
