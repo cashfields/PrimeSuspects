@@ -77,16 +77,16 @@ any length or values and have a &quot;.com&quot; extension.</p>
 
 
 <p>Next , in a TSO Mainframe File Edit , is a command like
-&quot;<u>sort 12 15 a 23 34 d 16 18 a</u>&quot; - sort columns 12 to 15
-ascending , and then 23 to 34 descending , and finally 16 to 18 ascending.</p>
+&quot;<u>sort 12 15 a 24 44 d 16 18 a</u>&quot; - sort columns 12 to 15
+ascending , and then 24 to 44 descending , and finally 16 to 18 ascending.</p>
 
 <hr>
 <p>In another program we could say: </p>
 
-<p><u>define pick/a1 =3D if ((stkm =3D edit(******9) =3D “r”) or
-(stkm =3D edit(*****9*) =3D “r”)) then “Y” else “N” <o:p></o:p></u></p>
+<p><u>define pick/a1 = if ((stkm = edit(******9) = “r”) or
+(stkm = edit(*****9*) = “r”)) then “Y” else “N” </u></p>
 
-<p>if pick equals “Y&quot; (yes) then later select (sort in) these records. 
+<p>if pick equals “Y” (yes) then later select (sort in) these records. 
 Do not select (sort out) the “N” records. This is manufactured data ; the “Y” flag will be used in a later sort.</p>
 
 <hr>
