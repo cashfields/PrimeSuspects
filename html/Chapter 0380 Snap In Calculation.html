@@ -6,8 +6,27 @@ layout: default
 <!-- -->       
 <!-- ############################################################### -->	
     	
-	  
 
+
+<!-- https://www.w3schools.com/css/tryit.asp?filename=trycss_float_images_side -->	  
+<!-- float two images side by side -->
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 
 
 
@@ -115,16 +134,17 @@ the 'Factors' column are the factors of the under the 'Input Here' column.</p>
 
 
 
+
 <p>A comparison of a *pairs ; *fam13 and *fam17. </p>
 
-
-<p></p>
-<img src="../scr/Picture201.png" style="display:inline-block;">
-<p></p>
- <p></p>
-<img src="../scr/Picture202.png" style="display:inline-block;">
-<p></p>
-   
+<div class="clearfix">
+  <div class="img-container">
+  <img src="../scr/Picture201.png" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="../scr/Picture202.png" style="width:100%">
+  </div>
+</div>
 
 
 
