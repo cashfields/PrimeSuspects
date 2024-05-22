@@ -173,6 +173,61 @@ In column "AC" (title f the g)) ; show what (g) the vlaue in column "AB" belongs
 <br>
 There are two screen images to show (g)0 and (g)1.
 <br>
+<!-- ############################################################### -->	
+<!-- https://www.w3schools.com/css/tryit.asp?filename=trycss_float_images_side -->	  
+<!-- float two images side by side -->
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 47%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>	  
+<!-- ############################################################### -->	
+<!-- ############################################################### -->	
+<div class="clearfix">
+  <div class="img-container">
+  <img src="../scr/Chapter_1500_00_g0a.png" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="../scr/Chapter_1500_00_g0b.png" style="width:100%">
+  </div>
+</div>	  
+<!-- ############################################################### -->	
+	  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
 
 =IF(AB5<>"",INT(AB5/30),"")
 <br> 
