@@ -123,16 +123,44 @@ The formulas for the "hit chart" are shown below:
 
 
 <p>
-Next create a 'truth' table in column "AA" ; concantenate all the cell from S5 to Z5 ; then Trim() the blanks. 
+Next , create a 'truth' table in column "AA" ; concantenate all the cell from S5 to Z5 ; then Trim() the blanks. 
 <br>
 This creates a unified easy find of <u>all</u> square root integer values. Think of it as a 'join'.
 <br>
-The formulas for "AA" are shown below:
+The formulas for "AA" (title XX) are shown below:
 </p>
 <p></p>
 <img src="../scr/Chapter_1500_00_d.png">
 <p></p>
 
+
+<p>
+Next , find the value that is the square root integer.
+<br>
+In column "AB" (title famxx) show the found integer.
+<br>
+Use the two hits to find the number.
+<br>
+=IF((AND((S5=1),(AA5="1"))),K5,IF((AND((X5=1),(AA5="1"))),P5,""))
+<br> 
+SO , if (S5=1 & AA5=1) get K5 (under gold 1) else if (X5=1 and AA5=1) get P5 (under gold 19) , else write "" (blank).
+The formulas for "AB" are shown below:
+</p>
+<p></p>
+<img src="../scr/Chapter_1500_00_e0.png">
+<p></p>
+<p> 
+Show fam01 find 
+</p>
+<p></p>
+<img src="../scr/Chapter_1500_00_e.png">
+<p></p>
+<p>
+Show fam19 find
+</p>
+<p></p>
+<img src="../scr/Chapter_1500_00_f.png">
+<p></p>
 
 
 
