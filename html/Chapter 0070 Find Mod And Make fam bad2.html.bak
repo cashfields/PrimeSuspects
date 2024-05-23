@@ -1,0 +1,143 @@
+---
+title: my home page title
+layout: default
+---
+<div class="blurb">
+<!-- -->       
+<!-- ############################################################### -->	
+    	
+	  
+
+
+<h1>Chapter 0070 Find Mod And Make *fam</h1>
+
+<p>Looking at all numbers and focusing on the *wildcard (*1 , *3 , *7 , *9) to 
+create *fam ( *fam01 , *fam07 , *fam11 , *fam13 , *fam17 ,
+*fam19 , *fam23 , and *fam29 ) a clear pattern of all numbers can be derived.</p>
+
+<p>By using the MOD() function we can look for factors easily.
+Where MOD(PS,1) =30 and conditionally painting the cell yellow. Non-prime
+numbers can be easily seen and sorted off.</p>
+
+	  
+<p></p>
+<img src="../scr/Picture16.png">
+<p></p>
+  
+	   
+	  
+<p>Mod() with only odd numbers in column p. Column p-c is a painted color of prime numbers.</p>
+
+<p>Sorting off all the even numbers and leaving just the odd numbers will create this chart.</p>
+
+<p></p>
+<img src="../scr/Picture17.png">
+<p></p>
+  
+<p>Same list but the integer value of the square root of the ODD column is listed. </p>
+
+<p>Right side of square root is redundant. Before I get too far
+ahead of myself , the right side of the square root can be eliminated. It is
+just the inverse of the left side. An example is (7 x 11) the same as (11 x 7).
+They are mirror images on both sides of the square root.</p>
+
+<p></p>
+<img src="../scr/Picture18.png">
+<p></p>
+
+<p>2 And 5 Are Out</p>
+
+<p>At this point let ''s look at 2 (two) and 5 (five).</p>
+
+<p>>Both of these</span> number are each a one shot ; they only occur once as the least significant digit. 
+It is extraneous data , sort them out.</p>
+
+<p>Two (2) is the only even number prime number. All subsequent
+even numbers are just a multiple of two (2). There will never be any number
+that is *2 greater than 2 that can be prime.</p>
+
+<p>Five (5) is the same as two (2) there is only one prime that
+will end with a five. All the rest are multiples of five (5). There will never
+be any number that is *5 greater than five (5) that can be prime.</p>
+
+<p>Remember *wildcard numbers.</p>
+
+
+
+<p><strong>How And Why Can We Discard Numbers?</strong></p>
+
+<p>In the real world we make all kinds of different sorts for
+different data ; different rules ; for all kinds of different situations.</p>
+
+<hr>
+<p>The first that comes to mind is the old MS-DOS "dir" command. 
+We could sort files with &quot;<u>dir a*.com</u>&quot; - give me a
+list of all files that starts with &quot;a&quot; , and</span> are
+any length or values and have a &quot;.com&quot; extension.</p>
+
+
+<p>Next , in a TSO Mainframe File Edit , is a command like
+&quot;<u>sort 12 15 a 24 44 d 16 18 a</u>&quot; - sort columns 12 to 15
+ascending , and then 24 to 44 descending , and finally 16 to 18 ascending.</p>
+
+<hr>
+<p>In another program we could say: </p>
+
+<p><u>define pick/a1 = if ((stkm = edit(******9) = “r”) or
+(stkm = edit(*****9*) = “r”)) then “Y” else “N” </u></p>
+
+<p>if pick equals “Y” (yes) then later select (sort in) these records. 
+Do not select (sort out) the “N” records. This is manufactured data ; the “Y” flag will be used in a later sort.</p>
+
+<hr>
+<p>Finally , my favorite and hopefully best argument. Inside
+any good text editor is a thing called regex (regular expression). It allows
+for pattern matching in a file. I won't go to deep here ; but this is a perfect
+example of the text (read: data) tool being developed for the need.</p>
+
+<p>In my text editor KEDIT an example would be: &quot;<u>locate reg /z?c/</u>&quot;. 
+Locate any string that starts with a &quot;z&quot; and has &quot;any character&quot; and ends with a &quot;c&quot;.</p>
+
+<p>All the above examples are really a sort ; sorting out what
+we don't want and sorting in what we want to keep. Each is a different tool
+based on the data. Each is an arbitrary set of symbols and sorting rules ; that is set and defined by the data.</p>
+
+<p>Looking at the MOD function shows a pattern with the *wildcard numbers. 
+It also reveals a subgrouping of the *wildcard numbers - *fam.</p>
+
+<p></p>
+<img src="../scr/Picture19.png">
+<p></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ############################################################### -->	
+
+
+
+<a href="https://cashfields.github.io/PrimeSuspects/html/Chapter 0020 Prime.html" target="_self">next</a>
+<br>
+<a href="https://cashfields.github.io/PrimeSuspects/index.html">index</a>
+	   
+<hr>
+
+<!-- ############################################################### -->	
+<!-- ##################### -->	
+</div><!-- /.blurb -->

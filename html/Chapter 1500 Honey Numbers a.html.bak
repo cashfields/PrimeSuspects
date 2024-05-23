@@ -49,7 +49,7 @@ The formula is shown below:
  <p>
 The next image adds additional columns (gold color) with the square root of its related *fam.
  <br>
- The data values in the "sq roots" columns that are integers have been highlighted along with their source.  
+ The data values in the "sq roots" columns that are integers have been highlighted alon with their source.  
 <br>
 
 <p></p>
@@ -79,7 +79,7 @@ The unique things is the values:
 <em>
 <br>&emsp;&emsp;&emsp;  a) All these integers are the  initial values from the very start of these web pages for (g)0.
 <br>&emsp;&emsp;&emsp;  b) Only *fam01 and *fam19 present integer values.
-<br>&emsp;&emsp;&emsp;  c) All the other *fam square roots are a decimal value.          
+<br>&emsp;&emsp;&emsp;  c) All the other *fam square roots are a decmial value.          
 <br>&emsp;&emsp;&emsp;  d) The numbers grow from small (01) to large (29) in order.        
 <br>&emsp;&emsp;&emsp;  e) All the *fam numbers are represented. 
 </em>
@@ -89,7 +89,7 @@ The unique things is the values:
 <em>
 <br>&emsp;&emsp;&emsp;  f) All the numbers under *fam01 (1) end in 1 of 9.                  
 <br>&emsp;&emsp;&emsp;  g) All the numbers under *fam19 (19) end in 3 and 7.         
-<br>&emsp;&emsp;&emsp;  h) These values constitute the *wildcard values of *1 , *3 , *7 , *9 - also from the initial premise . . .            
+<br>&emsp;&emsp;&emsp;  h) These values constitue the *wildcard values of *1 , *3 , *7 , *9 - also from the initial premise . . .            
 <br>&emsp;&emsp;&emsp;  i) We are back to the initial premise of 'just another 30 away' . . .        
 <br>&emsp;&emsp;&emsp;  j) more to come  . . .                           
 </em>
@@ -130,7 +130,7 @@ The formulas for the "hit chart" are shown below:
 
 
 <p>
-Next , create a 'truth' table in column "AA" ; concatenate all the cell from S5 to Z5 ; then Trim() the blanks. 
+Next , create a 'truth' table in column "AA" ; concantenate all the cell from S5 to Z5 ; then Trim() the blanks. 
 <br>
 This creates a unified easy find of <u>all</u> square root integer values. Think of it as a 'join'.
 <br>
@@ -176,7 +176,7 @@ Show fam19 find
 <p>
 Next , find the (g)
 <br>
-In column "AC" (title 'f the g')) ; show what (g) the value in column "AB" belongs to. 
+In column "AC" (title 'f the g')) ; show what (g) the vlaue in column "AB" belongs to. 
 <br>
 There are two screen images to show (g)0 and (g)1.
 <br>

@@ -1,0 +1,70 @@
+---
+title: my home page title
+layout: default
+---
+<div class="blurb">
+<!-- ##################### -->	
+<!-- -->           	
+	     
+<h1>Chapter 0010 Prime</h1>		 
+		 
+<p> To the start.</p>
+
+<p>When we count , we start at 0 and go up to 9.</p>
+
+<p>0 , 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9.</p>
+
+<p>All numbers will end with one of these digits. Hence the
+term *wildcard. By inspection *2 , *5 only happen once as a prime. All the even
+numbers *2 , * 4 , *6 , *8 , and *0 are all factors of 2. We can sort out these
+numbers first.
+</p>
+
+<p>The numbers that are left are *1 , *3 , *7 , *9. All prime
+numbers except 2 , 3 , 5 ; will end with these *wildcard digits.
+</p>
+
+<p>Grouping PS (<u>P</u>rime <u>S</u>uspect) numbers by the *wildcard will give the image below. Each row is ten apart. 
+The start is with the units digits then 10’s then 100’s. 
+</p>
+
+<img src="../scr/Picture1.png">
+
+<p>Image here<p>
+
+
+
+
+<h2>Listed_by_groups</h2>
+
+<p>A subset with only the prime number listed by groups of 10.
+A very quick and easy pattern can be seen. Two on and one off</p>
+
+<img src="../scr/Picture2.png">
+
+
+
+
+
+
+
+<a href="https://cashfields.github.io/PrimeSuspects/html/Chapter 0020 Graph of Primes.html" target="_self">next</a>
+<br>
+<a href="https://cashfields.github.io/PrimeSuspects/index.html">index</a>
+
+	
+	   
+<hr>
+<!--
+<h5> /Chap 01/ - orginal</h5> - <a href="https://cashfields.github.io/PrimeSuspects/html/Chapter 0010 Prime.html" target="_self"> look for screens - readme.html</a>
+-->
+
+
+
+
+
+
+
+
+<!-- ##################### -->	
+</div><!-- /.blurb -->

@@ -1,0 +1,174 @@
+---
+title: my home page title
+layout: default
+---
+<div class="blurb">
+<!-- -->       
+<!-- ############################################################### -->	
+    	
+	
+
+
+
+
+
+<h1>Chapter 0150 Factors</h1>
+
+
+<p>This first chart lists all the *1 *wildcard numbers. The
+formula to satisfy for *fam01 is [ 1 + n(30) ]. The columns in blue labeled as
+D , E , F, and G are joining the prime and non-prime. Columns D and E are the
+prime numbers that are a solution for *fam01. Columns F and G are the non-prime
+numbers for the solution for *fam01. To the right in the yellow panel are the
+factors for the non-prime numbers. They are placed in the column associated
+with their *fam. There is also a sub-sort within the green factors column. 
+The smallest factor is listed first and the larger is after the multiplication
+symbol. Think of prepping the data for future sorts.</p>
+
+<p>Later on , these factors will be grouped with the *fam value listed first. 
+In the <a href="./Chapter 0200 From Chaos to Cosmos"><Chapter 0200 From Chaos to Cosmos></a>.
+
+<p>The importance this chart is column G the MN (<u>m</u>issing
+<u>n</u>umber) is the PSL (Prime Suspect Level). The *fam01 has now sown
+together all *1 numbers (prime and non-prime) that satisfy *fam01 formula of: </p>
+
+<p>PSL = 1 + n(30)</p>
+
+<p>There are no gaps in counting numbers when n (column E) and
+MN (column G) are joined together. The numbers are listed sequentially.</p>
+
+<p>Columns E (n) and G (MN - <u>M</u>issing <u>N</u>umber) join primes and non-primes back together.</p>
+
+<p></p>
+<img src="../scr/Picture64.png">
+<p></p>
+
+<p><a name="_Hlk89516137">Here is the same chart for *fam07.
+That satisfy *fam07 formula of: </a></p>
+
+<p><span style='mso-bookmark:_Hlk89516137'>PSL = 7 + n(30)</span></p>
+
+<span style='mso-bookmark:_Hlk89516137'></span>
+
+<p></p>
+<img src="../scr/Picture65.png">
+<p></p>
+
+
+<p>Here is the same chart for *fam11. That satisfy *fam11 formula of: </p>
+
+<p>PSL = 11 + n(30)</p>
+
+<p></p>
+<img src="../scr/Picture66.png">
+<p></p>
+
+
+
+
+<p>Here is the same chart for *fam13. That satisfy *fam13 formula of: </p>
+
+<p>PSL = 13 + n(30)</p>
+
+<p></p>
+<img src="../scr/Picture67.png">
+<p></p>
+
+
+<p>Here is the same chart for *fam17. That satisfy *fam17 formula of: </p>
+
+<p>PSL = 17 + n(30) </p>
+
+<p></p>
+<img src="../scr/Picture68.png">
+<p></p>
+
+
+<p>Here is the same chart for *fam19. That satisfy *fam19 formula of: </p>
+
+<p>PSL = 19 + n(30)</p>
+
+<p></p>
+<img src="../scr/Picture69.png">
+<p></p>
+
+
+
+<p>Here is the same chart for *fam23. That satisfy *fam23 formula of: </p>
+
+<p>PSL = 23 + n(30)</p>
+
+<p></p>
+<img src="../scr/Picture70.png">
+<p></p>
+
+
+<p>Here is the same chart for *fam29. That satisfy *fam29 formula of: </p>
+
+<p>PSL = 29 + n(30)</p>
+
+<p></p>
+<img src="../scr/Picture71.png">
+<p></p>
+
+
+
+<p>Using the initial formula of:</p>
+
+<p>PSL = (PS - *fam) / 30</p>
+
+<p>Which can be converted to:</p>
+
+<p>PSL = (PS - *fam) / 30 </p>
+
+<p>PSL(30) = PS - *fam</p>
+
+<p>PSL(30) + *fam = PS<o:p/o:p></p>
+
+<p>PS = *fam + PSL(30)</p>
+
+<p>Using the last version of the formula gives data for several charts that are a continuation where:</p>
+
+<p>PSL = n = 0 to 119</p>
+
+<p>This charts the eight *fam against all numbers. It displays
+the solutions for each formula across the matrix. If it is an integer value ,
+then it is the PSL. This is a curiosity view. It shows what is going on with
+the numbers , and does the formula work at all levels.
+The answer is yes , it is solid. The following four charts show the PSL grow
+from 0 to 3. Look at the yellow cells with a border and an integer value.</p>
+
+<p></p>
+<img src="../scr/Picture72.png">
+<p></p>
+
+<p></p>
+<img src="../scr/Picture73.png">
+<p></p>
+
+<p></p>
+<img src="../scr/Picture74.png">
+<p></p>
+
+<p></p>
+<img src="../scr/Picture75.png">
+<p></p>
+
+
+
+
+
+
+<!-- ############################################################### -->	
+
+
+
+<a href="https://cashfields.github.io/PrimeSuspects/html/Chapter 0200 From Chaos to Cosmos.html" target="_self">next</a>
+<br>
+<a href="https://cashfields.github.io/PrimeSuspects/index.html">index</a>
+	   
+<hr>
+
+<!-- ############################################################### -->	
+<!-- ##################### -->	
+</div><!-- /.blurb -->
