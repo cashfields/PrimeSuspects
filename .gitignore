@@ -1,1 +1,4 @@
 _site/ 
+*.xls
+*.xlsm
+*.xlsx
